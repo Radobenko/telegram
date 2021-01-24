@@ -1,4 +1,4 @@
-case | text  | number
-:-------|:----------:|----------:
+Name | Description | Attachment
+:----|:-----------:|----------:
 open | welcome | 2
-close | 56 | hello
+close перфоратор | 56 | hello
